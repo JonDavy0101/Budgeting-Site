@@ -5,6 +5,6 @@
 >
 > Building this site was one of the funnest projects I have ever worked on. I am still adding features to it; come back later to see my progress.
 >
-> ##### ~ Jonathan Chapman
+> #### ~ Jonathan Chapman
 
 ###### © 2020 Jondavy0101  |  All rights reserved  |  Site by Jonathan Chapman
